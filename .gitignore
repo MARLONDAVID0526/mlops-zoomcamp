@@ -1,11 +1,11 @@
 data/
 .ipynb_checkpoints
-.bin
+#.bin
 *.db
 
-*.parquet
+#*.parquet
 *.html
-*.csv
+#*.csv
 
 .venv
 venv
