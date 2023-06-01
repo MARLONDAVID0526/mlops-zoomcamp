@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977990341790125496/4473e995277d468bb8863abce21334f0/artifacts
+end_time: 1685595063998
+entry_point_name: ''
+experiment_id: '977990341790125496'
+lifecycle_stage: active
+run_id: 4473e995277d468bb8863abce21334f0
+run_name: capable-robin-922
+run_uuid: 4473e995277d468bb8863abce21334f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685595063978
+status: 3
+tags: []
+user_id: mlops

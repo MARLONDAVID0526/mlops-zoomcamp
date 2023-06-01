@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/542765801128450570/138588101a3a4acc9c0f02b06cceacfb/artifacts
+end_time: 1685596151372
+entry_point_name: ''
+experiment_id: '542765801128450570'
+lifecycle_stage: active
+run_id: 138588101a3a4acc9c0f02b06cceacfb
+run_name: thundering-fly-241
+run_uuid: 138588101a3a4acc9c0f02b06cceacfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685596149457
+status: 3
+tags: []
+user_id: mlops

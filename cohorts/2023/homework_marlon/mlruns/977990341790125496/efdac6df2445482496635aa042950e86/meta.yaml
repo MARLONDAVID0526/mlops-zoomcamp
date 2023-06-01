@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977990341790125496/efdac6df2445482496635aa042950e86/artifacts
+end_time: 1685594718463
+entry_point_name: ''
+experiment_id: '977990341790125496'
+lifecycle_stage: active
+run_id: efdac6df2445482496635aa042950e86
+run_name: monumental-mule-503
+run_uuid: efdac6df2445482496635aa042950e86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685594717326
+status: 4
+tags: []
+user_id: mlops

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977990341790125496/384b838a80124d6abcc4e703d68a7f9a/artifacts
+end_time: 1685595105681
+entry_point_name: ''
+experiment_id: '977990341790125496'
+lifecycle_stage: active
+run_id: 384b838a80124d6abcc4e703d68a7f9a
+run_name: magnificent-hen-319
+run_uuid: 384b838a80124d6abcc4e703d68a7f9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685595105617
+status: 3
+tags: []
+user_id: mlops

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/542765801128450570/22b2ecd1de8748b0a296eaf1ebade9c0/artifacts
+end_time: 1685596146576
+entry_point_name: ''
+experiment_id: '542765801128450570'
+lifecycle_stage: active
+run_id: 22b2ecd1de8748b0a296eaf1ebade9c0
+run_name: classy-ram-83
+run_uuid: 22b2ecd1de8748b0a296eaf1ebade9c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685596143798
+status: 3
+tags: []
+user_id: mlops

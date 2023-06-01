@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977990341790125496/f38e882c4eeb41f38354bc4dd46b3671/artifacts
+end_time: 1685595067023
+entry_point_name: ''
+experiment_id: '977990341790125496'
+lifecycle_stage: active
+run_id: f38e882c4eeb41f38354bc4dd46b3671
+run_name: fearless-elk-248
+run_uuid: f38e882c4eeb41f38354bc4dd46b3671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685595067006
+status: 3
+tags: []
+user_id: mlops

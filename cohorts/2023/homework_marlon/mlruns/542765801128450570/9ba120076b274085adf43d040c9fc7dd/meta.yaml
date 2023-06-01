@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/542765801128450570/9ba120076b274085adf43d040c9fc7dd/artifacts
+end_time: 1685595735784
+entry_point_name: ''
+experiment_id: '542765801128450570'
+lifecycle_stage: active
+run_id: 9ba120076b274085adf43d040c9fc7dd
+run_name: popular-squirrel-697
+run_uuid: 9ba120076b274085adf43d040c9fc7dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685595733152
+status: 3
+tags: []
+user_id: mlops

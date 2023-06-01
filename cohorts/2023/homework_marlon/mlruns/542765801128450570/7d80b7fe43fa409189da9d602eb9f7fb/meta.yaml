@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/542765801128450570/7d80b7fe43fa409189da9d602eb9f7fb/artifacts
+end_time: 1685595733146
+entry_point_name: ''
+experiment_id: '542765801128450570'
+lifecycle_stage: active
+run_id: 7d80b7fe43fa409189da9d602eb9f7fb
+run_name: dashing-moth-999
+run_uuid: 7d80b7fe43fa409189da9d602eb9f7fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685595731431
+status: 3
+tags: []
+user_id: mlops

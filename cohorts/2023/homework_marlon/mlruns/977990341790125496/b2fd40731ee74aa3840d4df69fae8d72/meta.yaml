@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977990341790125496/b2fd40731ee74aa3840d4df69fae8d72/artifacts
+end_time: 1685594958443
+entry_point_name: ''
+experiment_id: '977990341790125496'
+lifecycle_stage: active
+run_id: b2fd40731ee74aa3840d4df69fae8d72
+run_name: mysterious-wasp-762
+run_uuid: b2fd40731ee74aa3840d4df69fae8d72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685594957245
+status: 4
+tags: []
+user_id: mlops

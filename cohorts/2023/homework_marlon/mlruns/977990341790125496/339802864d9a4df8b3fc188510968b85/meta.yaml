@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977990341790125496/339802864d9a4df8b3fc188510968b85/artifacts
+end_time: 1685594431462
+entry_point_name: ''
+experiment_id: '977990341790125496'
+lifecycle_stage: active
+run_id: 339802864d9a4df8b3fc188510968b85
+run_name: resilient-grouse-78
+run_uuid: 339802864d9a4df8b3fc188510968b85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685594430371
+status: 4
+tags: []
+user_id: mlops

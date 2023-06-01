@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977990341790125496/a9ad1ea7affe486db5cc1b5d2f5dc327/artifacts
+end_time: 1685595062749
+entry_point_name: ''
+experiment_id: '977990341790125496'
+lifecycle_stage: active
+run_id: a9ad1ea7affe486db5cc1b5d2f5dc327
+run_name: awesome-skink-368
+run_uuid: a9ad1ea7affe486db5cc1b5d2f5dc327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685595062723
+status: 3
+tags: []
+user_id: mlops

@@ -73,6 +73,7 @@ What is the value of the `max_depth` parameter:
 * 8
 * 10
 
+*The value of the max_depth = 10*
 
 ## Launch the tracking server locally for MLflow
 
@@ -109,6 +110,7 @@ What's the best validation RMSE that you got?
 * 2.45
 * 2.85
 
+The best validation RMSE I got was 2.45.
 
 ## Q5. Promote the best model to the model registry
 
@@ -130,14 +132,14 @@ What is the test RMSE of the best model?
 * 2.555
 * 2.955
 
-
+The test RMSE of the best Model is 2.291 ~ 2.185
 ## Q6. Model metadata
 
 Now explore your best model in the model registry using UI. What information does the model registry contain about each model?
 
-* Version number
-* Source experiment
-* Model signature
+* Version number   = version 1
+* Source experiment = whimsical-shrew-861
+* Model signature = d813a10895c345a9be22692c99b34a94
 * All the above answers are correct
 
 

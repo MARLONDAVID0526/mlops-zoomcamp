@@ -1,7 +1,11 @@
 import os
 import pickle
 import click
+
 import mlflow
+
+from mlflow import sklearn
+
 print(f"tracking URI: '{mlflow.get_tracking_uri()}'")
 
 from sklearn.ensemble import RandomForestRegressor
@@ -34,6 +38,7 @@ def run_train(data_path: str):
 
         rmse = mean_squared_error(y_val, y_pred, squared=False)
         
+        mlflow.log_params(rf.get_params())
         mlflow.log_metric("rmse", rmse)
 
 

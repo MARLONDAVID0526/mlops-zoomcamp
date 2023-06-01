@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977990341790125496/e86649320b4340f1a81f1beb1b1349c2/artifacts
+end_time: 1685595066326
+entry_point_name: ''
+experiment_id: '977990341790125496'
+lifecycle_stage: active
+run_id: e86649320b4340f1a81f1beb1b1349c2
+run_name: bemused-sow-168
+run_uuid: e86649320b4340f1a81f1beb1b1349c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685595066309
+status: 3
+tags: []
+user_id: mlops

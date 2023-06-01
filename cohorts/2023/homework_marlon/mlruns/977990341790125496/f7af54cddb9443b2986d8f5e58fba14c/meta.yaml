@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977990341790125496/f7af54cddb9443b2986d8f5e58fba14c/artifacts
+end_time: 1685595066170
+entry_point_name: ''
+experiment_id: '977990341790125496'
+lifecycle_stage: active
+run_id: f7af54cddb9443b2986d8f5e58fba14c
+run_name: puzzled-mare-781
+run_uuid: f7af54cddb9443b2986d8f5e58fba14c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685595066154
+status: 3
+tags: []
+user_id: mlops

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977990341790125496/fa2ea60c626147f6bbd96c50a415ff6c/artifacts
+end_time: 1685595105386
+entry_point_name: ''
+experiment_id: '977990341790125496'
+lifecycle_stage: active
+run_id: fa2ea60c626147f6bbd96c50a415ff6c
+run_name: delicate-boar-236
+run_uuid: fa2ea60c626147f6bbd96c50a415ff6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685595105366
+status: 3
+tags: []
+user_id: mlops

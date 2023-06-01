@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/542765801128450570/ff70935a96954a21893ea55881266c7e/artifacts
+end_time: 1685596155839
+entry_point_name: ''
+experiment_id: '542765801128450570'
+lifecycle_stage: active
+run_id: ff70935a96954a21893ea55881266c7e
+run_name: grandiose-stoat-170
+run_uuid: ff70935a96954a21893ea55881266c7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685596153972
+status: 3
+tags: []
+user_id: mlops

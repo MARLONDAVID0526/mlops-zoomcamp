@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/cohorts/2023/homework_marlon/mlruns/603618882462558749/e1196442901941b0b41888d3c4e9ad45/artifacts
+end_time: 1685592745767
+entry_point_name: ''
+experiment_id: '603618882462558749'
+lifecycle_stage: active
+run_id: e1196442901941b0b41888d3c4e9ad45
+run_name: nosy-turtle-236
+run_uuid: e1196442901941b0b41888d3c4e9ad45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685592739175
+status: 3
+tags: []
+user_id: mlops

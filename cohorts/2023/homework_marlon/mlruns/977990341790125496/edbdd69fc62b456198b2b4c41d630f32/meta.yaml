@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977990341790125496/edbdd69fc62b456198b2b4c41d630f32/artifacts
+end_time: 1685595104733
+entry_point_name: ''
+experiment_id: '977990341790125496'
+lifecycle_stage: active
+run_id: edbdd69fc62b456198b2b4c41d630f32
+run_name: clumsy-shrimp-455
+run_uuid: edbdd69fc62b456198b2b4c41d630f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685595104705
+status: 3
+tags: []
+user_id: mlops
