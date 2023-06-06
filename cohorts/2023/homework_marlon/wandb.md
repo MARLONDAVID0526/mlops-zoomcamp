@@ -29,6 +29,8 @@ Once you installed the package, run the command `wandb --version` and check the 
 
 What's the version that you have?
 
+-- The version I have is: **0.15.3**
+
 # Q2. Download and preprocess the data
 
 We'll use the Green Taxi Trip Records dataset to predict the amount of tips for each trip. 
@@ -71,6 +73,8 @@ Once you navigate to the `Files` tab of your artifact on your Weights & Biases p
 * 54 MB
 * 154 MB
 
+The size is: **152 Kb** ~ **154 kb**
+
 # Q3. Train a model with Weights & Biases logging
 
 We will train a `RandomForestRegressor` (from Scikit-Learn) on the taxi dataset.
@@ -111,6 +115,8 @@ Once you have successfully ran the script, navigate the `Overview` section of th
 * 8
 * 10
 
+**max_depth parameter = 10**
+
 # Q4. Tune model hyperparameters
 
 Now let's try to reduce the validation error by tuning the hyperparameters of the `RandomForestRegressor` using [Weights & Biases Sweeps](https://docs.wandb.ai/guides/sweeps). We have prepared the script `sweep.py` for this exercise in the `homework-wandb` directory.
@@ -131,6 +137,8 @@ This command will run the sweep for 5 iterations using the **Bayesian Optimizati
 * `min_samples_split`
 * `min_samples_leaf`
 
+**The most important parameter is max_depth**
+
 # Q5. Link the best model to the model registry
 
 Now that we have obtained the optimal set of hyperparameters and trained the best model, we can assume that we are ready to test some of these models in production. In this exercise, you'll create a model registry and link the best model from the Sweep to the model registry.
@@ -141,13 +149,13 @@ Once you have created the Registered Model successfully, you can navigate to the
 
 Now that the model artifact is linked to the Registered Model, which of these information do we see on the Registered Model UI?
 
-* Versioning
-* Metadata
-* Aliases
-* Metric (MSE)
-* Source run
-* All of these
-* None of these
+* Versioning = Yes
+* Metadata = Yes
+* Aliases = Yes
+* Metric (MSE) = Yes
+* Source run =  Yes
+* All of these = Yes
+* None of these = No
 
 ## Submit the results
 

@@ -1,0 +1,84 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.9",
+    "heartbeatAt": "2023-06-06T01:48:03.582351",
+    "startedAt": "2023-06-06T01:48:02.711756",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "homework_wandb",
+        "--wandb_entity",
+        "marlondavid0526",
+        "--data_artifact",
+        "marlondavid0526/homework_wandb/NYC-Taxi:v0"
+    ],
+    "state": "running",
+    "program": "/home/mlops/mlops-zoomcamp/cohorts/2023/homework_marlon/./homework-wandb/sweep.py",
+    "codePath": "cohorts/2023/homework_marlon/homework-wandb/sweep.py",
+    "git": {
+        "remote": "https://github.com/MARLONDAVID0526/mlops-zoomcamp.git",
+        "commit": "7064053cde5c31ce86558f67faafbda08edc5cc8"
+    },
+    "email": "pp.marlondavid@hotmail.com",
+    "root": "/home/mlops/mlops-zoomcamp",
+    "host": "MarlonPenuela",
+    "username": "mlops",
+    "executable": "/home/mlops/anaconda3/envs/exp-tracking-env/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2419.2000000000003,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2419.2,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.2,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.2,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.2,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.2,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.2,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.2,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.2,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 10.486736297607422
+    },
+    "memory": {
+        "total": 7.65228271484375
+    }
+}

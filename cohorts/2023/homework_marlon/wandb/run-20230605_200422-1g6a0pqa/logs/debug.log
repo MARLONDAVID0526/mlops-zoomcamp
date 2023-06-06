@@ -1,0 +1,27 @@
+2023-06-05 20:04:22,872 INFO    MainThread:333871 [wandb_setup.py:_flush():76] Current SDK version is 0.15.3
+2023-06-05 20:04:22,872 INFO    MainThread:333871 [wandb_setup.py:_flush():76] Configure stats pid to 333871
+2023-06-05 20:04:22,872 INFO    MainThread:333871 [wandb_setup.py:_flush():76] Loading settings from /home/mlops/.config/wandb/settings
+2023-06-05 20:04:22,872 INFO    MainThread:333871 [wandb_setup.py:_flush():76] Loading settings from /home/mlops/mlops-zoomcamp/cohorts/2023/homework_marlon/wandb/settings
+2023-06-05 20:04:22,872 INFO    MainThread:333871 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-06-05 20:04:22,872 INFO    MainThread:333871 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-06-05 20:04:22,872 INFO    MainThread:333871 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'cohorts/2023/homework_marlon/homework-wandb/preprocess_data.py', 'program': '/home/mlops/mlops-zoomcamp/cohorts/2023/homework_marlon/./homework-wandb/preprocess_data.py'}
+2023-06-05 20:04:22,872 INFO    MainThread:333871 [wandb_init.py:_log_setup():507] Logging user logs to /home/mlops/mlops-zoomcamp/cohorts/2023/homework_marlon/wandb/run-20230605_200422-1g6a0pqa/logs/debug.log
+2023-06-05 20:04:22,872 INFO    MainThread:333871 [wandb_init.py:_log_setup():508] Logging internal logs to /home/mlops/mlops-zoomcamp/cohorts/2023/homework_marlon/wandb/run-20230605_200422-1g6a0pqa/logs/debug-internal.log
+2023-06-05 20:04:22,872 INFO    MainThread:333871 [wandb_init.py:init():547] calling init triggers
+2023-06-05 20:04:22,872 INFO    MainThread:333871 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-06-05 20:04:22,872 INFO    MainThread:333871 [wandb_init.py:init():596] starting backend
+2023-06-05 20:04:22,872 INFO    MainThread:333871 [wandb_init.py:init():600] setting up manager
+2023-06-05 20:04:22,875 INFO    MainThread:333871 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-06-05 20:04:22,877 INFO    MainThread:333871 [wandb_init.py:init():606] backend started and connected
+2023-06-05 20:04:22,880 INFO    MainThread:333871 [wandb_init.py:init():700] updated telemetry
+2023-06-05 20:04:22,884 INFO    MainThread:333871 [wandb_init.py:init():737] communicating run to backend with 60.0 second timeout
+2023-06-05 20:04:23,365 ERROR   MainThread:333871 [wandb_init.py:init():763] encountered error: It appears that you do not have permission to access the requested resource. Please reach out to the project owner to grant you access. If you have the correct permissions, verify that there are no issues with your networking setup.(Error 403: Forbidden)
+2023-06-05 20:04:23,695 ERROR   MainThread:333871 [wandb_init.py:init():1168] It appears that you do not have permission to access the requested resource. Please reach out to the project owner to grant you access. If you have the correct permissions, verify that there are no issues with your networking setup.(Error 403: Forbidden)
+Traceback (most recent call last):
+  File "/home/mlops/anaconda3/envs/exp-tracking-env/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1150, in init
+    run = wi.init()
+  File "/home/mlops/anaconda3/envs/exp-tracking-env/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 769, in init
+    raise error
+wandb.errors.CommError: It appears that you do not have permission to access the requested resource. Please reach out to the project owner to grant you access. If you have the correct permissions, verify that there are no issues with your networking setup.(Error 403: Forbidden)
+2023-06-05 20:04:24,698 WARNING MsgRouterThr:333871 [router.py:message_loop():77] message_loop has been closed
