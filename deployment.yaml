@@ -12,7 +12,7 @@ deployments:
     name: zoompool
 
 - name: taxi_homework_data
-  entrypoint: cohorts/2023/homework_marlon/3.4/orchestrate.py:main_flow
+  entrypoint: cohorts/2023/homework_marlon/3.4/orchestrate.py:main_flow_homework
   parameters: {}
   work_pool:
     name: zoompool
