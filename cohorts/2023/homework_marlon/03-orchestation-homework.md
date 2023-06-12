@@ -119,7 +119,7 @@ What is the name of the pre-built prefect-email task function?
 - `send_email`
 - `send_message`
 
-
+The name of the prebuilt prefect email task function is `send_email_message`
 
 ## Q6. Prefect Cloud
 
@@ -144,6 +144,8 @@ What is the name of the second step in the Automation creation process?
 - Actions
 - The end
 
+
+Tne second step in the Automation creation process is Actions. 
 
 ## Submit the results
 
