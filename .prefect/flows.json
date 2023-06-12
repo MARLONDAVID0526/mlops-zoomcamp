@@ -1,4 +1,5 @@
 {
   "main-flow": "03-orchestration/3.4/orchestrate.py:main_flow",
+  "main-flow-homework": "cohorts/2023/homework_marlon/3.4/orchestrate.py:main_flow_homework",
   "main-flow-s3": "03-orchestration/3.5/orchestrate_s3.py:main_flow_s3"
 }

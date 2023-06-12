@@ -76,6 +76,8 @@ What’s the RMSE in the artifact to two decimal places ?
 - 15.33
 - 5.37
 
+Result are:
+validation-rmse:5.37450
 
 ## Q5. Emails
 
