@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/974687655105754760/dba19824351140e9a8d005c36ab61b4f/artifacts
+end_time: 1687227474184
+entry_point_name: ''
+experiment_id: '974687655105754760'
+lifecycle_stage: active
+run_id: dba19824351140e9a8d005c36ab61b4f
+run_name: mysterious-sow-79
+run_uuid: dba19824351140e9a8d005c36ab61b4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687227456261
+status: 3
+tags: []
+user_id: mlops
