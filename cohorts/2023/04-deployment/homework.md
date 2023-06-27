@@ -20,6 +20,8 @@ What's the standard deviation of the predicted duration for this dataset?
 * 20.28
 
 
+Standard Deviation of Predicted Duration: 5.28140357655334
+
 ## Q2. Preparing the output
 
 Like in the course videos, we want to prepare the dataframe with the output. 
@@ -53,14 +55,14 @@ What's the size of the output file?
 __Note:__ Make sure you use the snippet above for saving the file. It should contain only these two columns. For this question, don't change the
 dtypes of the columns and use pyarrow, not fastparquet. 
 
-
+Size of the output file: 56.169318199157715 MB
 ## Q3. Creating the scoring script
 
 Now let's turn the notebook into a script. 
 
 Which command you need to execute for that?
 
-
+jupyter nbconvert --to script starter.ipynb 
 ## Q4. Virtual environment
 
 Now let's put everything into a virtual environment. We'll use pipenv for that.
@@ -74,7 +76,7 @@ dependencies we use for the virtual env.
 
 What's the first hash for the Scikit-Learn dependency?
 
-
+sha256:065e9673e24e0dc5113e2dd2b4ca30c9d8aa2fa90f4c0597241c93b63130d233
 ## Q5. Parametrize the script
 
 Let's now make the script configurable via CLI. We'll create two 
@@ -90,7 +92,7 @@ What's the mean predicted duration?
 * 22.76
 
 Hint: just add a print statement to your script.
-
+Mean of Predicted Duration: 24.781802168801896
 
 ## Q6. Docker container 
 
